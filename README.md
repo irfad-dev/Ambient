@@ -13,7 +13,7 @@ Digital Plan: Visualize tasks and projects.
 Temperature Control: Manage temperature and environmental data.
 
 Links
-Website: Ambient Digital Control Panel
+Website: https://irfad-dev.github.io/Ambient/
 
-GitHub: irfad-dev
+GitHub: https://github.com/irfad-dev
 
